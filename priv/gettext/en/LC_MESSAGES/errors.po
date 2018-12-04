@@ -18,7 +18,7 @@ msgstr "my translation"
 
 #: 
 msgid "is invalid"
-msgstr ""
+msgstr "is a bit invalid"
 
 #: 
 msgid "has invalid format"

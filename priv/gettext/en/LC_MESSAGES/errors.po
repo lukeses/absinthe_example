@@ -22,7 +22,7 @@ msgstr "is a bit invalid"
 
 #: 
 msgid "has invalid format"
-msgstr ""
+msgstr "another translation play"
 
 #: 
 msgid "has an invalid entry"

@@ -34,7 +34,7 @@ msgstr "vvvv"
 
 #: 
 msgid "does not match confirmation"
-msgstr ""
+msgstr "fnjsfnjsnf"
 
 #: 
 msgid "is still associated to this entry"

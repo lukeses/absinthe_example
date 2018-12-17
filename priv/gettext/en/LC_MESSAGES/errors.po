@@ -26,11 +26,11 @@ msgstr "another translation play"
 
 #: 
 msgid "has an invalid entry"
-msgstr ""
+msgstr "cccc"
 
 #: 
 msgid "is reserved"
-msgstr ""
+msgstr "vvvv"
 
 #: 
 msgid "does not match confirmation"
